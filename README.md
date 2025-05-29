@@ -1,6 +1,6 @@
 Calculator Project
 
-Live Demo: Click Here (https://tahmidul-islam-star.github.io/Project/)
+Live Demo: Click Here [(https://tahmidul-islam-star.github.io/Project/)](https://tahmidul-islam-star.github.io/Calculator_Project/)
 
 -> Description Simple calculator project built using HTML, CSS, and JavaScript.
 
